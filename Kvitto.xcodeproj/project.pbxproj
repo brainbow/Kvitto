@@ -562,7 +562,7 @@
 					};
 					A795445B1BC3FC1600EC73B1 = {
 						CreatedOnToolsVersion = 7.0;
-						LastSwiftMigration = 0920;
+						LastSwiftMigration = 1020;
 					};
 					A79544641BC3FC1600EC73B1 = {
 						CreatedOnToolsVersion = 7.0;
@@ -969,8 +969,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Cocoanetics.DTSalesReceipt;
 				PRODUCT_NAME = Kvitto;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1157,8 +1156,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Cocoanetics.DTSalesReceipt;
 				PRODUCT_NAME = Kvitto;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1179,8 +1177,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Cocoanetics.DTSalesReceipt;
 				PRODUCT_NAME = Kvitto;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
